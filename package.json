@@ -5,8 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "precommit": "lint-staged"
+    "lint": "vue-cli-service lint"
   },
   "lint-staged": {
     "src/**/*.{js,json,css,vue}": [
